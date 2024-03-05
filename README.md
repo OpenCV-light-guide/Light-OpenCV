@@ -1,4 +1,8 @@
-#  Fast & Light Guide OpenCV Functions Guide
+#  Fast & Light Guide OpenCV Functions
+##Links
+- https://github.com/opencv/opencv?tab=readme-ov-file
+- https://github.com/opencv/opencv-python
+
 
 ## Introduction
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It provides various functions for image and video processing tasks. This guide provides an overview of some commonly used functions in OpenCV.
