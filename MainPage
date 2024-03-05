@@ -1,0 +1,46 @@
+# OpenCV Basics
+
+## Description
+This repository serves as a reference guide to the fundamental functions and methods of the OpenCV library, commonly used in computer vision, image processing, and machine learning tasks. OpenCV is a popular open-source library designed for image and video processing, as well as for various computer vision tasks.
+
+## Structure
+The repository is organized into the following sections:
+
+### 1. Image Input and Output
+   - Reading and writing images
+   - Working with video files
+   - Loading and saving images from/to webcam
+
+### 2. Image Processing
+   - Resizing images
+   - Adjusting brightness, contrast, and hue of images
+   - Color space transformations
+   - Cropping, rotating, and flipping images
+   - Image filtering (blurring, edge enhancement, etc.)
+
+### 3. Object Detection
+   - Face detection
+   - Object detection using Haar cascades
+   - Contour detection of objects
+
+### 4. Basics of Computer Vision
+   - Image transformations (rotation, perspective transformation, etc.)
+   - Key point detection and descriptors
+   - Image matching
+
+### 5. Usage Examples
+   - Several examples demonstrating the usage of basic OpenCV functions with comments and explanations.
+
+## Additional Information
+Additional resources such as documentation, links to articles, and guides can be found in their respective sections.
+
+## How to Use
+Each section contains Python code snippets with comments on the basic functions and methods of OpenCV. To use, simply clone the repository and study or use the code in your projects.
+
+## Contribution
+You can contribute by suggesting improvements, fixing bugs, or adding new usage examples. Just fork this repository, make changes, and submit a pull request.
+
+## License
+This repository is distributed under the MIT License. Please see the `LICENSE` file for more information.
+
+For questions and suggestions, contact us via email: [your.email@example.com](mailto:your.email@example.com)
